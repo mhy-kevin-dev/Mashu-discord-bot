@@ -39,9 +39,9 @@ Funcions
     - !trans 
     - !detect 
     - !tldr
-- !talk  <SOME_SENTENCES>
-- !yt  <URL>
-- !search   <IMAGE_URL>
+- !talk  SOME_SENTENCES
+- !yt  URL
+- !search  IMAGE_URL
 - !dice
 
 
