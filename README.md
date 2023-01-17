@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 Quick Start
 ============================
-Make sure you have these accounts, and get their api key:
+Make sure you have these accounts, and get their api keys:
 - openai api (https://openai.com/api/)
 - saucenao api (https://saucenao.com/user.php?page=search-api)
 - discord bot (https://discord.com/developers/applications)
