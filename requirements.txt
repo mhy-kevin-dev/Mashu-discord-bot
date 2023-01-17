@@ -1,0 +1,9 @@
+git+https://github.com/Rapptz/discord.py.git
+aiohttp
+websockets
+PyNaCl
+requests
+googletrans==3.1.0a0
+saucenao_api 
+pypinyin
+openai
