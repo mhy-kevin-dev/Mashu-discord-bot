@@ -5,10 +5,10 @@ This bot can do:
     - Tanslate
     - Detect languages
     - Summarization
-    - Chat to AI
-- Search tasks
-    - search image sources
-    - get youtube thumbnails
+    - Talk to AI
+- Other tasks
+    - Search image sources
+    - Get youtube thumbnails
 
 
 Requirements 
