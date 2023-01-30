@@ -1,5 +1,16 @@
 # Discord bot prototype
 
+This bot can do: 
+- NLP tasks
+    - Tanslate
+    - Detect languages
+    - Summarization
+    - Chat to AI
+- Search tasks
+    - search image sources
+    - get youtube thumbnails
+
+
 Requirements 
 ============================
 - Python 3.8 or higher is required
